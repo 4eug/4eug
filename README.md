@@ -1,8 +1,8 @@
 # Welcome to my Github Profile
 
-# 👋 Hey! I'm Eugene Debrah
+# 👋 Hello Guys! I'm Eugene Debrah
 
-### I am a Developer and Designer who is passionate about building.
+### I am a Software Developer and Designer who is passionate about building apps and designing beautiful apps.
 
 I watch too many tech videos including cars on <img src="assets/youtube.png" width= "13"> YouTube, I'm also a part-time photographer who takes pictures with my <img src="assets/youtube.png" width= "13">phone and <img src="assets/camera.png" width= "13">camera. I'm a Ui/Ux Designer, I'm in love minimalism and good designs.
 
