@@ -21,7 +21,7 @@ I'm available on;
 - [<img src="assets/twitter.png" width= "16"> Twitter](https://twitter.com/4eug_)
 - [<img src="assets/dribbble.png" width= "16"> Dribbble](https://dribbble.com/4eug)
 - [<img src="assets/behance.png" width= "16"> Behance](https://www.behance.net/debraheug)
-- [<img src="assets/instagram.png" width= "16"> Instagram](https://www.behance.net/debraheug)
+- [<img src="assets/instagram.png" width= "16"> Instagram](https://www.instagram.com/_.4eug)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" />
 
