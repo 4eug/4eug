@@ -1,6 +1,5 @@
-# Welcome to my Github Profile
 
-# 👋 Hello Guys! I'm Eugene Debrah
+# 👋 Hello Guys! I'm Eugene
 
 ### I am a Software Developer and Designer who is passionate about building apps and designing beautiful apps.
 
