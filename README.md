@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-<h2 align="center"> Where can you find me & My Creative Works ? </h2>
   <a href=""> Portfolio</a> | 
   <a href="https://twitter.com/4eug_"><img src="assets/twitter.png" width= "16">Twitter</a> |
   <a href="https://www.instagram.com/_.4eug"><img src="assets/instagram.png" width= "16">Instagram</a> |
@@ -25,6 +24,6 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
 - 🤝 Open for collaborations in Mobile apps with flutter framework.
 - ⚡ Fun fact: I like to bring My Designs(UI's) to Life.
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" />
+<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" /></center>
 
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=4eug" alt="4eug" />
