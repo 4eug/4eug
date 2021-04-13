@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://codewonders.dev/icons/favicon-96x96.png" width="70" />  
+  <img src="" width="70" />  
   <h2 align="center"><a href="https://codewonders.dev">👋 I'm Eugene Debrah</a></h2>
   <p align="center"> I am a Software Developer and Designer who is passionate about building apps and designing beautiful apps.</p>
 </p>
 
 <p align="center">
-  <a href="https://codewonders.dev"><img src="assets/gmail.png" width= "16"> Gmail> Portfolio</a> | 
-  <a href="https://twitter.com/4eug_">Twitter</a> |
+  <a href="https://codewonders.dev"> Portfolio</a> | 
+  <a href="https://twitter.com/4eug_"><img src="assets/twitter.png" width= "16">Twitter</a> |
   <a href="https://www.instagram.com/_.4eug">Instagram</a> |
   <a href="https://www.behance.net/debraheug">Behance</a> |
   <a href="https://dribbble.com/4eug">Dribbble</a> |
