@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/_.4eug"><img src="assets/instagram.png" width= "16">Instagram</a> |
   <a href="https://www.behance.net/debraheug"><img src="assets/behance.png" width= "16">Behance</a> |
   <a href="https://dribbble.com/4eug"><img src="assets/dribbble.png" width= "16"> Dribbble</a> |
-  <a href="https://www.linkedin.com/in/eugene-debrah/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/eugene-debrah/"><img src="assets/Linkedin.png" width= "16">LinkedIn</a>
 </p>
 
 <br />
@@ -24,6 +24,4 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
 - 🤝 Open for collaborations in Mobile apps with flutter framework.
 - ⚡ Fun fact: I like to bring My Designs(UI's) to Life.
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" />
-
-<img align="center" src ="https://github-readme-stats.vercel.app/api?username=4eug" alt="4eug" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" /><img align="center" src ="https://github-readme-stats.vercel.app/api?username=4eug" alt="4eug" />
