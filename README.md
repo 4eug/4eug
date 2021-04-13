@@ -1,7 +1,19 @@
+<p align="center">
+  <img src="https://codewonders.dev/icons/favicon-96x96.png" width="70" />  
+  <h2 align="center"><a href="https://codewonders.dev">👋 I'm Eugene Debrah</a></h2>
+  <p align="center"> I am a Software Developer and Designer who is passionate about building apps and designing beautiful apps.</p>
+</p>
 
-# 👋 Hello Guys! I'm Eugene
+<p align="center">
+  <a href="https://codewonders.dev"><img src="assets/gmail.png" width= "16"> Gmail> Portfolio</a> | 
+  <a href="https://twitter.com/4eug_">Twitter</a> |
+  <a href="https://www.instagram.com/_.4eug">Instagram</a> |
+  <a href="https://www.behance.net/debraheug">Behance</a> |
+  <a href="https://dribbble.com/4eug">Dribbble</a> |
+  <a href="https://linkedin.com/in/codewonders">LinkedIn</a>
+</p>
 
-### I am a Software Developer and Designer who is passionate about building apps and designing beautiful apps.
+<br />
 
 I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="assets/youtube.png" width= "13"> YouTube, I'm also a part-time photographer who takes pictures with my <img src="assets/smartphone.png" width= "13">phone and <img src="assets/camera.png" width= "13">camera. I'm a Ui/Ux Designer, I'm in love minimalism and good designs.
 
