@@ -24,4 +24,5 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
 - 🤝 Open for collaborations in Mobile apps with flutter framework.
 - ⚡ Fun fact: I like to bring My Designs(UI's) to Life.
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" /><img align="center" src ="https://github-readme-stats.vercel.app/api?username=4eug" alt="4eug" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" /> -->
+<img align="center" src ="https://github-readme-stats.vercel.app/api?username=4eug" alt="4eug" />
