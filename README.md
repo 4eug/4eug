@@ -21,7 +21,7 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
 
 - 🔭 Built a mobile app for an Institution with flutter.
 - 💙 Currently building an app for a startup and personal apps.
-- 🌱 I’m currently learning Nodejs.
+- 🌱 I’m currently learning Reactjs.
 - 🤝 Open for collaborations in Mobile apps with flutter framework.
 - ⚡ Fun fact: I like to bring My Designs(UI's) to Life.
 
