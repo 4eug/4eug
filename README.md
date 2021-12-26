@@ -25,5 +25,15 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
 - 🤝 Open for collaborations in Mobile apps with flutter, Frontend Development with React.
 - ⚡ Fun fact: I like to bring My Designs(UI's) to Life.
 
+<p>
+  💻 My Stack<br/><br/> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/flutter-323330?style=for-the-badge&logo=flutter&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/adobexd-323330?style=for-the-badge&logo=adobexd&logoColor=#440135"/>
+  <img src="https://img.shields.io/badge/figma-323330?style=for-the-badge&logo=figma&logoColor=#440135"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" /> -->
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=4eug" alt="4eug" />
