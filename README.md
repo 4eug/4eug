@@ -25,6 +25,11 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
 - 🤝 Open for collaborations in Mobile apps with flutter, Frontend Development with React.
 - ⚡ Fun fact: I like to bring My Designs(UI's) to Life.
 
+<p align="center">
+ <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</p>
+
+
 <p>
   💻 My Stack<br/><br/> 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -41,4 +46,3 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" /> -->
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=4eug" alt="4eug" />
 
-<center><h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></center>
