@@ -36,6 +36,7 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
   <img src="https://img.shields.io/badge/figma-323330?style=for-the-badge&logo=figma&logoColor=#440135"/>
   <img src="https://img.shields.io/badge/Webflow-323330?style=for-the-badge&logo=webflow&logoColor=blue"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB" />
 </p>
 
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4eug" alt="4eug" /> -->
