@@ -33,6 +33,7 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
   <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue"/>
   <img src="https://img.shields.io/badge/flutter-323330?style=for-the-badge&logo=flutter&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=056608" />
   <img src="https://img.shields.io/badge/adobexd-323330?style=for-the-badge&logo=adobexd&logoColor=#440135"/>
   <img src="https://img.shields.io/badge/figma-323330?style=for-the-badge&logo=figma&logoColor=#440135"/>
   <img src="https://img.shields.io/badge/Webflow-323330?style=for-the-badge&logo=webflow&logoColor=blue"/>
