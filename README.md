@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/_.4eug"><img src="assets/instagram.png" width= "16">Instagram</a> |
   <a href="https://www.behance.net/debraheug"><img src="assets/behance.png" width= "16">Behance</a> |
   <a href="https://dribbble.com/4eug"><img src="assets/dribbble.png" width= "16"> Dribbble</a> |
-  <a href="https://www.linkedin.com/in/eugene-debrah/"><img src="assets/Linkedin.png" width= "16">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/debraheug/"><img src="assets/Linkedin.png" width= "16">LinkedIn</a>
 </p>
 
 <br />
