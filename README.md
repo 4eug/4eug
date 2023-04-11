@@ -20,8 +20,6 @@ I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="a
 📫 You can reach me at debraheug@gmail.com
 
 - 🔭 Built a mobile app for an Institution with flutter.
-- 💙 Built an mobile app for a startup and personal apps.
-- 🌱 I’m currently learning Reactjs/Nextjs.
 - 🤝 Open for collaborations in Mobile apps with flutter, Frontend Development with Reactjs/Nextjs.
 - ⚡ Fun fact: I like to bring My Designs(UI's) to Life.
 
