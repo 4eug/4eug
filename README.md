@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/Asset 1.svg" width="90" />  
   <h2 align="center">👋 I'm Eugene Debrah</h2>
-  <p align="center"> I am a Software Developer and Designer who is passionate about building and designing beautiful apps.</p>
+  <p align="center"> I am a Frontend Engineer and Product Designer who is passionate about building and designing beautiful apps.</p>
 </p>
 
 <p align="center">
