@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.4eug.me/"><img src="assets/Asset 1.svg" width= "18">Portfolio</a> | 
+  <a href="https://www.4eug.com/"><img src="assets/Asset 1.svg" width= "18">Portfolio</a> | 
   <a href="https://twitter.com/4eug_"><img src="assets/twitter.png" width= "16">Twitter</a> |
   <a href="https://www.instagram.com/_.4eug"><img src="assets/instagram.png" width= "16">Instagram</a> |
   <a href="https://www.behance.net/debraheug"><img src="assets/behance.png" width= "16">Behance</a> |
