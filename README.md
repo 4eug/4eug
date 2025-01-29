@@ -4,15 +4,6 @@
   <p align="center"> I am a Frontend Engineer and Product Designer who is passionate about building and designing beautiful apps.</p>
 </p>
 
-<p align="center">
-  <a href="https://www.4eug.com/"><img src="assets/Asset 1.svg" width= "18">Portfolio</a> | 
-  <a href="https://twitter.com/4eug_"><img src="assets/twitter.png" width= "16">Twitter</a> |
-  <a href="https://www.instagram.com/_.4eug"><img src="assets/instagram.png" width= "16">Instagram</a> |
-  <a href="https://www.behance.net/debraheug"><img src="assets/behance.png" width= "16">Behance</a> |
-  <a href="https://dribbble.com/4eug"><img src="assets/dribbble.png" width= "16"> Dribbble</a> |
-  <a href="https://www.linkedin.com/in/debraheug/"><img src="assets/Linkedin.png" width= "16">LinkedIn</a>
-</p>
-
 <br />
 
 I watch too many tech videos (unboxing, gadgets reviews and cars) on <img src="assets/youtube.png" width= "13"> YouTube, I'm also a part-time photographer who takes pictures with my <img src="assets/smartphone.png" width= "13">phone and <img src="assets/camera.png" width= "13">camera. I'm a Ui/Ux Designer, I'm in love minimalism and good designs.
